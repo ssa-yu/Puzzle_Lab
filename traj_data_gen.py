@@ -93,6 +93,10 @@ def draw_generated_trajectory(folder, filename):
     plt.tight_layout()
 
     plt.savefig(os.path.join(folder ,f"{filename}.png"), dpi=300, bbox_inches='tight')
+
+    ax.view_init(elev=95, azim=195)
+    plt.savefig(os.path.join(folder ,f"{filename}_2.png"), dpi=300, bbox_inches='tight')
+
     plt.close(fig)   
     print("image saved!")
     return json_data

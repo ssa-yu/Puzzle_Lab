@@ -5,10 +5,10 @@
         "color_list": [
             [
                 "orange",
-                "cyan"
+                "blue"
             ],
             [
-                "cyan",
+                "blue",
                 "orange"
             ]
         ]
@@ -18,14 +18,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
+                "orange",
+                "green",
                 "red",
-                "orange"
+                "blue",
+                "cyan"
             ],
             [
-                "orange",
+                "cyan",
+                "blue",
                 "red",
-                "blue"
+                "green",
+                "orange"
             ]
         ]
     },
@@ -34,16 +38,16 @@
         "format": "png",
         "color_list": [
             [
-                "green",
                 "orange",
-                "cyan",
-                "blue"
+                "red",
+                "blue",
+                "green"
             ],
             [
+                "green",
                 "blue",
-                "cyan",
-                "orange",
-                "green"
+                "red",
+                "orange"
             ]
         ]
     },
@@ -52,12 +56,14 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "orange"
+                "green",
+                "blue",
+                "cyan"
             ],
             [
-                "orange",
-                "red"
+                "cyan",
+                "blue",
+                "green"
             ]
         ]
     },
@@ -66,16 +72,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "green",
-                "blue",
-                "orange"
+                "red",
+                "cyan"
             ],
             [
-                "orange",
-                "blue",
-                "green",
-                "cyan"
+                "cyan",
+                "red"
             ]
         ]
     },
@@ -84,16 +86,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "blue",
-                "red",
-                "orange"
+                "orange",
+                "red"
             ],
             [
-                "orange",
                 "red",
-                "blue",
-                "cyan"
+                "orange"
             ]
         ]
     },
@@ -102,16 +100,14 @@
         "format": "png",
         "color_list": [
             [
-                "green",
                 "cyan",
-                "blue",
-                "orange"
+                "green",
+                "red"
             ],
             [
-                "orange",
-                "blue",
-                "cyan",
-                "green"
+                "red",
+                "green",
+                "cyan"
             ]
         ]
     },
@@ -120,18 +116,14 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "red",
-                "orange",
-                "green",
-                "blue"
-            ],
-            [
                 "blue",
                 "green",
-                "orange",
+                "red"
+            ],
+            [
                 "red",
-                "cyan"
+                "green",
+                "blue"
             ]
         ]
     },
@@ -140,16 +132,14 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "blue",
-                "cyan",
-                "green"
+                "red",
+                "green",
+                "orange"
             ],
             [
+                "orange",
                 "green",
-                "cyan",
-                "blue",
-                "orange"
+                "red"
             ]
         ]
     },
@@ -159,14 +149,14 @@
         "color_list": [
             [
                 "cyan",
-                "blue",
                 "red",
-                "orange"
+                "blue",
+                "green"
             ],
             [
-                "orange",
-                "red",
+                "green",
                 "blue",
+                "red",
                 "cyan"
             ]
         ]
@@ -177,12 +167,16 @@
         "color_list": [
             [
                 "orange",
+                "red",
+                "blue",
                 "green",
                 "cyan"
             ],
             [
                 "cyan",
                 "green",
+                "blue",
+                "red",
                 "orange"
             ]
         ]
@@ -192,14 +186,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
                 "red",
+                "blue",
+                "green",
+                "cyan",
                 "orange"
             ],
             [
                 "orange",
-                "red",
-                "blue"
+                "cyan",
+                "green",
+                "blue",
+                "red"
             ]
         ]
     },
@@ -208,16 +206,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
+                "cyan",
                 "orange",
+                "blue",
                 "red",
                 "green"
             ],
             [
                 "green",
                 "red",
+                "blue",
                 "orange",
-                "blue"
+                "cyan"
             ]
         ]
     },
@@ -226,14 +226,12 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "red",
+                "orange",
                 "cyan"
             ],
             [
                 "cyan",
-                "red",
-                "blue"
+                "orange"
             ]
         ]
     },
@@ -242,18 +240,18 @@
         "format": "png",
         "color_list": [
             [
+                "orange",
                 "green",
                 "cyan",
-                "blue",
-                "orange",
-                "red"
+                "red",
+                "blue"
             ],
             [
-                "red",
-                "orange",
                 "blue",
+                "red",
                 "cyan",
-                "green"
+                "green",
+                "orange"
             ]
         ]
     },
@@ -262,16 +260,18 @@
         "format": "png",
         "color_list": [
             [
-                "red",
+                "cyan",
                 "green",
-                "blue",
-                "orange"
-            ],
-            [
                 "orange",
                 "blue",
-                "green",
                 "red"
+            ],
+            [
+                "red",
+                "blue",
+                "orange",
+                "green",
+                "cyan"
             ]
         ]
     },
@@ -280,12 +280,16 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "red"
+                "red",
+                "orange",
+                "cyan",
+                "blue"
             ],
             [
-                "red",
-                "blue"
+                "blue",
+                "cyan",
+                "orange",
+                "red"
             ]
         ]
     },
@@ -295,16 +299,12 @@
         "color_list": [
             [
                 "green",
-                "blue",
-                "cyan",
-                "red",
-                "orange"
+                "orange",
+                "red"
             ],
             [
-                "orange",
                 "red",
-                "cyan",
-                "blue",
+                "orange",
                 "green"
             ]
         ]
@@ -314,14 +314,12 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "cyan",
-                "green"
+                "green",
+                "cyan"
             ],
             [
-                "green",
                 "cyan",
-                "blue"
+                "green"
             ]
         ]
     },
@@ -330,6 +328,59 @@
         "format": "png",
         "color_list": [
             [
+                "red",
+                "blue"
+            ],
+            [
+                "blue",
+                "red"
+            ]
+        ]
+    },
+    {
+        "image_id": 21,
+        "format": "png",
+        "color_list": [
+            [
+                "red",
+                "cyan",
+                "blue",
+                "orange",
+                "green"
+            ],
+            [
+                "green",
+                "orange",
+                "blue",
+                "cyan",
+                "red"
+            ]
+        ]
+    },
+    {
+        "image_id": 22,
+        "format": "png",
+        "color_list": [
+            [
+                "red",
+                "blue",
+                "orange",
+                "green"
+            ],
+            [
+                "green",
+                "orange",
+                "blue",
+                "red"
+            ]
+        ]
+    },
+    {
+        "image_id": 23,
+        "format": "png",
+        "color_list": [
+            [
+                "green",
                 "orange",
                 "red",
                 "blue",
@@ -339,59 +390,8 @@
                 "cyan",
                 "blue",
                 "red",
-                "orange"
-            ]
-        ]
-    },
-    {
-        "image_id": 21,
-        "format": "png",
-        "color_list": [
-            [
                 "orange",
-                "red"
-            ],
-            [
-                "red",
-                "orange"
-            ]
-        ]
-    },
-    {
-        "image_id": 22,
-        "format": "png",
-        "color_list": [
-            [
-                "blue",
-                "green",
-                "orange",
-                "red"
-            ],
-            [
-                "red",
-                "orange",
-                "green",
-                "blue"
-            ]
-        ]
-    },
-    {
-        "image_id": 23,
-        "format": "png",
-        "color_list": [
-            [
-                "blue",
-                "cyan",
-                "red",
-                "green",
-                "orange"
-            ],
-            [
-                "orange",
-                "green",
-                "red",
-                "cyan",
-                "blue"
+                "green"
             ]
         ]
     },
@@ -400,14 +400,16 @@
         "format": "png",
         "color_list": [
             [
+                "orange",
                 "green",
                 "red",
-                "orange"
+                "blue"
             ],
             [
-                "orange",
+                "blue",
                 "red",
-                "green"
+                "green",
+                "orange"
             ]
         ]
     },
@@ -417,16 +419,14 @@
         "color_list": [
             [
                 "red",
+                "green",
                 "orange",
-                "cyan",
-                "blue",
-                "green"
+                "cyan"
             ],
             [
-                "green",
-                "blue",
                 "cyan",
                 "orange",
+                "green",
                 "red"
             ]
         ]
@@ -436,16 +436,16 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
+                "green",
                 "red",
                 "orange",
-                "blue"
+                "cyan"
             ],
             [
-                "blue",
+                "cyan",
                 "orange",
                 "red",
-                "cyan"
+                "green"
             ]
         ]
     },
@@ -456,14 +456,10 @@
             [
                 "orange",
                 "red",
-                "green",
-                "blue",
-                "cyan"
+                "blue"
             ],
             [
-                "cyan",
                 "blue",
-                "green",
                 "red",
                 "orange"
             ]
@@ -474,18 +470,18 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "green",
-                "orange",
                 "blue",
+                "orange",
+                "green",
+                "red",
                 "cyan"
             ],
             [
                 "cyan",
-                "blue",
-                "orange",
+                "red",
                 "green",
-                "red"
+                "orange",
+                "blue"
             ]
         ]
     },
@@ -494,18 +490,18 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "orange",
                 "cyan",
+                "red",
+                "green",
                 "blue",
-                "red"
+                "orange"
             ],
             [
-                "red",
-                "blue",
-                "cyan",
                 "orange",
-                "green"
+                "blue",
+                "green",
+                "red",
+                "cyan"
             ]
         ]
     },
@@ -514,16 +510,16 @@
         "format": "png",
         "color_list": [
             [
-                "green",
+                "orange",
+                "red",
                 "cyan",
-                "blue",
-                "orange"
+                "blue"
             ],
             [
-                "orange",
                 "blue",
                 "cyan",
-                "green"
+                "red",
+                "orange"
             ]
         ]
     },
@@ -532,16 +528,18 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "green",
                 "red",
+                "green",
+                "blue",
+                "cyan",
                 "orange"
             ],
             [
                 "orange",
-                "red",
+                "cyan",
+                "blue",
                 "green",
-                "cyan"
+                "red"
             ]
         ]
     },
@@ -550,14 +548,14 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "blue",
-                "cyan"
+                "cyan",
+                "orange",
+                "green"
             ],
             [
-                "cyan",
-                "blue",
-                "green"
+                "green",
+                "orange",
+                "cyan"
             ]
         ]
     },
@@ -566,18 +564,16 @@
         "format": "png",
         "color_list": [
             [
-                "green",
+                "red",
                 "cyan",
                 "orange",
-                "blue",
-                "red"
+                "green"
             ],
             [
-                "red",
-                "blue",
+                "green",
                 "orange",
                 "cyan",
-                "green"
+                "red"
             ]
         ]
     },
@@ -586,14 +582,12 @@
         "format": "png",
         "color_list": [
             [
-                "red",
                 "orange",
                 "green"
             ],
             [
                 "green",
-                "orange",
-                "red"
+                "orange"
             ]
         ]
     },
@@ -603,12 +597,16 @@
         "color_list": [
             [
                 "blue",
-                "orange",
-                "cyan"
+                "red",
+                "green",
+                "cyan",
+                "orange"
             ],
             [
-                "cyan",
                 "orange",
+                "cyan",
+                "green",
+                "red",
                 "blue"
             ]
         ]
@@ -618,12 +616,14 @@
         "format": "png",
         "color_list": [
             [
+                "cyan",
                 "green",
-                "blue"
+                "red"
             ],
             [
-                "blue",
-                "green"
+                "red",
+                "green",
+                "cyan"
             ]
         ]
     },
@@ -632,12 +632,12 @@
         "format": "png",
         "color_list": [
             [
-                "green",
+                "cyan",
                 "orange"
             ],
             [
                 "orange",
-                "green"
+                "cyan"
             ]
         ]
     },
@@ -646,18 +646,16 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "red",
                 "orange",
-                "green",
-                "cyan"
+                "blue",
+                "cyan",
+                "green"
             ],
             [
-                "cyan",
                 "green",
-                "orange",
-                "red",
-                "blue"
+                "cyan",
+                "blue",
+                "orange"
             ]
         ]
     },
@@ -666,14 +664,12 @@
         "format": "png",
         "color_list": [
             [
-                "red",
                 "cyan",
-                "orange"
+                "green"
             ],
             [
-                "orange",
-                "cyan",
-                "red"
+                "green",
+                "cyan"
             ]
         ]
     },
@@ -696,12 +692,14 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "red"
+                "red",
+                "blue",
+                "cyan"
             ],
             [
-                "red",
-                "orange"
+                "cyan",
+                "blue",
+                "red"
             ]
         ]
     },
@@ -710,18 +708,18 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "green",
-                "cyan",
                 "red",
-                "blue"
+                "green",
+                "orange",
+                "blue",
+                "cyan"
             ],
             [
-                "blue",
-                "red",
                 "cyan",
+                "blue",
+                "orange",
                 "green",
-                "orange"
+                "red"
             ]
         ]
     },
@@ -730,16 +728,18 @@
         "format": "png",
         "color_list": [
             [
-                "green",
+                "blue",
                 "orange",
+                "green",
                 "cyan",
                 "red"
             ],
             [
                 "red",
                 "cyan",
+                "green",
                 "orange",
-                "green"
+                "blue"
             ]
         ]
     },
@@ -748,14 +748,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "cyan",
-                "red"
-            ],
-            [
+                "orange",
                 "red",
                 "cyan",
-                "blue"
+                "blue",
+                "green"
+            ],
+            [
+                "green",
+                "blue",
+                "cyan",
+                "red",
+                "orange"
             ]
         ]
     },
@@ -764,12 +768,16 @@
         "format": "png",
         "color_list": [
             [
+                "red",
+                "orange",
                 "cyan",
-                "blue"
+                "green"
             ],
             [
-                "blue",
-                "cyan"
+                "green",
+                "cyan",
+                "orange",
+                "red"
             ]
         ]
     },
@@ -778,16 +786,12 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "blue",
                 "cyan",
                 "red"
             ],
             [
                 "red",
-                "cyan",
-                "blue",
-                "green"
+                "cyan"
             ]
         ]
     },
@@ -797,9 +801,13 @@
         "color_list": [
             [
                 "red",
-                "blue"
+                "blue",
+                "cyan",
+                "green"
             ],
             [
+                "green",
+                "cyan",
                 "blue",
                 "red"
             ]
@@ -810,18 +818,18 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
                 "red",
-                "blue",
+                "orange",
+                "cyan",
                 "green",
-                "orange"
+                "blue"
             ],
             [
-                "orange",
-                "green",
                 "blue",
-                "red",
-                "cyan"
+                "green",
+                "cyan",
+                "orange",
+                "red"
             ]
         ]
     },
@@ -830,16 +838,14 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "orange",
                 "red",
-                "blue"
+                "green",
+                "cyan"
             ],
             [
-                "blue",
-                "red",
-                "orange",
-                "cyan"
+                "cyan",
+                "green",
+                "red"
             ]
         ]
     },
@@ -849,10 +855,12 @@
         "color_list": [
             [
                 "red",
-                "orange"
+                "green",
+                "cyan"
             ],
             [
-                "orange",
+                "cyan",
+                "green",
                 "red"
             ]
         ]
@@ -862,12 +870,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "green"
+                "green",
+                "orange"
             ],
             [
-                "green",
-                "cyan"
+                "orange",
+                "green"
             ]
         ]
     },
@@ -876,18 +884,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "red",
-                "blue",
-                "green",
-                "orange"
+                "orange",
+                "green"
             ],
             [
-                "orange",
                 "green",
-                "blue",
-                "red",
-                "cyan"
+                "orange"
             ]
         ]
     },
@@ -896,14 +898,18 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
                 "cyan",
-                "red"
+                "orange",
+                "green",
+                "red",
+                "blue"
             ],
             [
+                "blue",
                 "red",
-                "cyan",
-                "orange"
+                "green",
+                "orange",
+                "cyan"
             ]
         ]
     },
@@ -912,16 +918,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "blue",
-                "orange",
-                "red"
+                "red",
+                "green"
             ],
             [
-                "red",
-                "orange",
-                "blue",
-                "cyan"
+                "green",
+                "red"
             ]
         ]
     },
@@ -930,14 +932,12 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "cyan",
-                "orange"
+                "red",
+                "cyan"
             ],
             [
-                "orange",
                 "cyan",
-                "green"
+                "red"
             ]
         ]
     },
@@ -946,18 +946,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
-                "red",
-                "orange",
                 "green",
+                "blue",
+                "orange",
+                "red",
                 "cyan"
             ],
             [
                 "cyan",
-                "green",
-                "orange",
                 "red",
-                "blue"
+                "orange",
+                "blue",
+                "green"
             ]
         ]
     },
@@ -966,12 +966,16 @@
         "format": "png",
         "color_list": [
             [
+                "red",
+                "green",
                 "orange",
                 "cyan"
             ],
             [
                 "cyan",
-                "orange"
+                "orange",
+                "green",
+                "red"
             ]
         ]
     },
@@ -980,12 +984,14 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "blue"
+                "green",
+                "orange",
+                "cyan"
             ],
             [
-                "blue",
-                "red"
+                "cyan",
+                "orange",
+                "green"
             ]
         ]
     },
@@ -995,16 +1001,12 @@
         "color_list": [
             [
                 "green",
-                "orange",
-                "cyan",
                 "blue",
-                "red"
+                "orange"
             ],
             [
-                "red",
-                "blue",
-                "cyan",
                 "orange",
+                "blue",
                 "green"
             ]
         ]
@@ -1014,12 +1016,18 @@
         "format": "png",
         "color_list": [
             [
+                "blue",
                 "orange",
+                "green",
+                "red",
                 "cyan"
             ],
             [
                 "cyan",
-                "orange"
+                "red",
+                "green",
+                "orange",
+                "blue"
             ]
         ]
     },
@@ -1028,16 +1036,14 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
                 "green",
-                "cyan",
-                "red"
+                "orange",
+                "blue"
             ],
             [
-                "red",
-                "cyan",
-                "green",
-                "orange"
+                "blue",
+                "orange",
+                "green"
             ]
         ]
     },
@@ -1046,18 +1052,16 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
+                "red",
                 "green",
-                "cyan",
-                "blue",
-                "red"
+                "orange",
+                "cyan"
             ],
             [
-                "red",
-                "blue",
                 "cyan",
+                "orange",
                 "green",
-                "orange"
+                "red"
             ]
         ]
     },
@@ -1067,14 +1071,14 @@
         "color_list": [
             [
                 "blue",
+                "cyan",
                 "orange",
-                "red",
-                "cyan"
+                "green"
             ],
             [
-                "cyan",
-                "red",
+                "green",
                 "orange",
+                "cyan",
                 "blue"
             ]
         ]
@@ -1084,18 +1088,18 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
                 "red",
-                "green",
-                "blue",
-                "cyan"
-            ],
-            [
+                "orange",
                 "cyan",
                 "blue",
+                "green"
+            ],
+            [
                 "green",
-                "red",
-                "orange"
+                "blue",
+                "cyan",
+                "orange",
+                "red"
             ]
         ]
     },
@@ -1104,18 +1108,14 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "red",
                 "cyan",
-                "orange",
-                "blue"
+                "blue",
+                "red"
             ],
             [
-                "blue",
-                "orange",
-                "cyan",
                 "red",
-                "green"
+                "blue",
+                "cyan"
             ]
         ]
     },
@@ -1124,14 +1124,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
                 "red",
-                "orange"
+                "green",
+                "orange",
+                "cyan",
+                "blue"
             ],
             [
+                "blue",
+                "cyan",
                 "orange",
-                "red",
-                "blue"
+                "green",
+                "red"
             ]
         ]
     },
@@ -1140,14 +1144,12 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
                 "blue",
-                "green"
+                "cyan"
             ],
             [
-                "green",
-                "blue",
-                "orange"
+                "cyan",
+                "blue"
             ]
         ]
     },
@@ -1156,18 +1158,18 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
                 "green",
+                "orange",
+                "blue",
                 "cyan",
-                "red",
-                "orange"
+                "red"
             ],
             [
-                "orange",
                 "red",
                 "cyan",
-                "green",
-                "blue"
+                "blue",
+                "orange",
+                "green"
             ]
         ]
     },
@@ -1177,16 +1179,12 @@
         "color_list": [
             [
                 "red",
-                "orange",
                 "blue",
-                "cyan",
                 "green"
             ],
             [
                 "green",
-                "cyan",
                 "blue",
-                "orange",
                 "red"
             ]
         ]
@@ -1196,14 +1194,12 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "red",
-                "cyan"
+                "green",
+                "red"
             ],
             [
-                "cyan",
                 "red",
-                "orange"
+                "green"
             ]
         ]
     },
@@ -1213,14 +1209,14 @@
         "color_list": [
             [
                 "blue",
-                "red",
-                "cyan",
-                "green"
-            ],
-            [
                 "green",
                 "cyan",
-                "red",
+                "orange"
+            ],
+            [
+                "orange",
+                "cyan",
+                "green",
                 "blue"
             ]
         ]
@@ -1230,14 +1226,14 @@
         "format": "png",
         "color_list": [
             [
+                "green",
                 "blue",
-                "orange",
                 "red"
             ],
             [
                 "red",
-                "orange",
-                "blue"
+                "blue",
+                "green"
             ]
         ]
     },
@@ -1246,12 +1242,12 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "cyan"
+                "orange",
+                "red"
             ],
             [
-                "cyan",
-                "red"
+                "red",
+                "orange"
             ]
         ]
     },
@@ -1260,16 +1256,16 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "cyan",
                 "orange",
-                "blue"
+                "green",
+                "red",
+                "cyan"
             ],
             [
-                "blue",
-                "orange",
                 "cyan",
-                "red"
+                "red",
+                "green",
+                "orange"
             ]
         ]
     },
@@ -1278,14 +1274,12 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "blue",
-                "cyan"
+                "green",
+                "blue"
             ],
             [
-                "cyan",
                 "blue",
-                "orange"
+                "green"
             ]
         ]
     },
@@ -1294,18 +1288,16 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
                 "green",
-                "red",
-                "blue",
-                "cyan"
-            ],
-            [
                 "cyan",
                 "blue",
+                "red"
+            ],
+            [
                 "red",
-                "green",
-                "orange"
+                "blue",
+                "cyan",
+                "green"
             ]
         ]
     },
@@ -1314,14 +1306,18 @@
         "format": "png",
         "color_list": [
             [
+                "green",
                 "cyan",
-                "orange",
-                "blue"
+                "red",
+                "blue",
+                "orange"
             ],
             [
-                "blue",
                 "orange",
-                "cyan"
+                "blue",
+                "red",
+                "cyan",
+                "green"
             ]
         ]
     },
@@ -1330,12 +1326,18 @@
         "format": "png",
         "color_list": [
             [
+                "cyan",
+                "red",
                 "orange",
-                "cyan"
+                "green",
+                "blue"
             ],
             [
-                "cyan",
-                "orange"
+                "blue",
+                "green",
+                "orange",
+                "red",
+                "cyan"
             ]
         ]
     },
@@ -1345,10 +1347,16 @@
         "color_list": [
             [
                 "red",
-                "cyan"
+                "orange",
+                "blue",
+                "cyan",
+                "green"
             ],
             [
+                "green",
                 "cyan",
+                "blue",
+                "orange",
                 "red"
             ]
         ]
@@ -1358,12 +1366,14 @@
         "format": "png",
         "color_list": [
             [
+                "blue",
                 "green",
-                "cyan"
+                "red"
             ],
             [
-                "cyan",
-                "green"
+                "red",
+                "green",
+                "blue"
             ]
         ]
     },
@@ -1372,7 +1382,6 @@
         "format": "png",
         "color_list": [
             [
-                "red",
                 "blue",
                 "cyan",
                 "orange"
@@ -1380,8 +1389,7 @@
             [
                 "orange",
                 "cyan",
-                "blue",
-                "red"
+                "blue"
             ]
         ]
     },
@@ -1390,16 +1398,18 @@
         "format": "png",
         "color_list": [
             [
+                "orange",
+                "red",
                 "green",
                 "cyan",
-                "blue",
-                "orange"
+                "blue"
             ],
             [
-                "orange",
                 "blue",
                 "cyan",
-                "green"
+                "green",
+                "red",
+                "orange"
             ]
         ]
     },
@@ -1408,18 +1418,14 @@
         "format": "png",
         "color_list": [
             [
+                "cyan",
                 "red",
-                "orange",
-                "green",
-                "blue",
-                "cyan"
+                "blue"
             ],
             [
-                "cyan",
                 "blue",
-                "green",
-                "orange",
-                "red"
+                "red",
+                "cyan"
             ]
         ]
     },
@@ -1428,12 +1434,18 @@
         "format": "png",
         "color_list": [
             [
+                "red",
                 "green",
-                "red"
+                "blue",
+                "cyan",
+                "orange"
             ],
             [
-                "red",
-                "green"
+                "orange",
+                "cyan",
+                "blue",
+                "green",
+                "red"
             ]
         ]
     },
@@ -1442,12 +1454,14 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "red"
+                "red",
+                "green",
+                "blue"
             ],
             [
-                "red",
-                "orange"
+                "blue",
+                "green",
+                "red"
             ]
         ]
     },
@@ -1456,16 +1470,14 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "blue",
-                "red",
-                "cyan"
-            ],
-            [
                 "cyan",
-                "red",
                 "blue",
                 "orange"
+            ],
+            [
+                "orange",
+                "blue",
+                "cyan"
             ]
         ]
     },
@@ -1474,12 +1486,18 @@
         "format": "png",
         "color_list": [
             [
+                "cyan",
+                "orange",
+                "green",
                 "red",
-                "green"
+                "blue"
             ],
             [
+                "blue",
+                "red",
                 "green",
-                "red"
+                "orange",
+                "cyan"
             ]
         ]
     },
@@ -1488,16 +1506,18 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
                 "blue",
+                "green",
+                "red",
                 "orange",
-                "green"
+                "cyan"
             ],
             [
-                "green",
+                "cyan",
                 "orange",
-                "blue",
-                "cyan"
+                "red",
+                "green",
+                "blue"
             ]
         ]
     },
@@ -1506,18 +1526,14 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "green",
-                "red",
                 "blue",
-                "orange"
+                "orange",
+                "red"
             ],
             [
-                "orange",
-                "blue",
                 "red",
-                "green",
-                "cyan"
+                "orange",
+                "blue"
             ]
         ]
     },
@@ -1526,12 +1542,18 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "green"
+                "green",
+                "cyan",
+                "orange",
+                "blue",
+                "red"
             ],
             [
-                "green",
-                "red"
+                "red",
+                "blue",
+                "orange",
+                "cyan",
+                "green"
             ]
         ]
     },
@@ -1540,16 +1562,12 @@
         "format": "png",
         "color_list": [
             [
-                "green",
                 "orange",
-                "cyan",
                 "blue"
             ],
             [
                 "blue",
-                "cyan",
-                "orange",
-                "green"
+                "orange"
             ]
         ]
     },
@@ -1558,14 +1576,18 @@
         "format": "png",
         "color_list": [
             [
+                "blue",
+                "green",
                 "red",
                 "orange",
-                "blue"
+                "cyan"
             ],
             [
-                "blue",
+                "cyan",
                 "orange",
-                "red"
+                "red",
+                "green",
+                "blue"
             ]
         ]
     },
@@ -1574,18 +1596,18 @@
         "format": "png",
         "color_list": [
             [
-                "red",
-                "orange",
-                "cyan",
-                "green",
-                "blue"
-            ],
-            [
                 "blue",
                 "green",
-                "cyan",
                 "orange",
-                "red"
+                "red",
+                "cyan"
+            ],
+            [
+                "cyan",
+                "red",
+                "orange",
+                "green",
+                "blue"
             ]
         ]
     },
@@ -1595,14 +1617,10 @@
         "color_list": [
             [
                 "red",
-                "cyan",
-                "blue",
-                "green"
+                "orange"
             ],
             [
-                "green",
-                "blue",
-                "cyan",
+                "orange",
                 "red"
             ]
         ]
@@ -1612,14 +1630,16 @@
         "format": "png",
         "color_list": [
             [
-                "blue",
+                "green",
                 "orange",
+                "cyan",
                 "red"
             ],
             [
                 "red",
+                "cyan",
                 "orange",
-                "blue"
+                "green"
             ]
         ]
     },
@@ -1628,12 +1648,16 @@
         "format": "png",
         "color_list": [
             [
+                "orange",
                 "green",
-                "red"
+                "red",
+                "cyan"
             ],
             [
+                "cyan",
                 "red",
-                "green"
+                "green",
+                "orange"
             ]
         ]
     },
@@ -1642,12 +1666,18 @@
         "format": "png",
         "color_list": [
             [
-                "orange",
-                "cyan"
+                "cyan",
+                "blue",
+                "green",
+                "red",
+                "orange"
             ],
             [
-                "cyan",
-                "orange"
+                "orange",
+                "red",
+                "green",
+                "blue",
+                "cyan"
             ]
         ]
     },
@@ -1656,12 +1686,14 @@
         "format": "png",
         "color_list": [
             [
-                "green",
-                "red"
+                "blue",
+                "cyan",
+                "orange"
             ],
             [
-                "red",
-                "green"
+                "orange",
+                "cyan",
+                "blue"
             ]
         ]
     },
@@ -1670,14 +1702,12 @@
         "format": "png",
         "color_list": [
             [
-                "cyan",
-                "green",
-                "blue"
+                "blue",
+                "red"
             ],
             [
-                "blue",
-                "green",
-                "cyan"
+                "red",
+                "blue"
             ]
         ]
     },
@@ -1687,9 +1717,15 @@
         "color_list": [
             [
                 "red",
-                "orange"
+                "orange",
+                "blue",
+                "green",
+                "cyan"
             ],
             [
+                "cyan",
+                "green",
+                "blue",
                 "orange",
                 "red"
             ]
